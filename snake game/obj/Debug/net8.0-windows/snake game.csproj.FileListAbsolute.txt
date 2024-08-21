@@ -1,0 +1,17 @@
+C:\Users\USER\Documents\GitHub\desktop-tutorial\snake game\snake game\snake game\snake game\bin\Debug\net8.0-windows\snake game.exe
+C:\Users\USER\Documents\GitHub\desktop-tutorial\snake game\snake game\snake game\snake game\bin\Debug\net8.0-windows\snake game.deps.json
+C:\Users\USER\Documents\GitHub\desktop-tutorial\snake game\snake game\snake game\snake game\bin\Debug\net8.0-windows\snake game.runtimeconfig.json
+C:\Users\USER\Documents\GitHub\desktop-tutorial\snake game\snake game\snake game\snake game\bin\Debug\net8.0-windows\snake game.dll
+C:\Users\USER\Documents\GitHub\desktop-tutorial\snake game\snake game\snake game\snake game\bin\Debug\net8.0-windows\snake game.pdb
+C:\Users\USER\Documents\GitHub\desktop-tutorial\snake game\snake game\snake game\snake game\obj\Debug\net8.0-windows\snake_game.Form1.resources
+C:\Users\USER\Documents\GitHub\desktop-tutorial\snake game\snake game\snake game\snake game\obj\Debug\net8.0-windows\snake game.csproj.GenerateResource.cache
+C:\Users\USER\Documents\GitHub\desktop-tutorial\snake game\snake game\snake game\snake game\obj\Debug\net8.0-windows\snake game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\GitHub\desktop-tutorial\snake game\snake game\snake game\snake game\obj\Debug\net8.0-windows\snake game.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\GitHub\desktop-tutorial\snake game\snake game\snake game\snake game\obj\Debug\net8.0-windows\snake game.AssemblyInfo.cs
+C:\Users\USER\Documents\GitHub\desktop-tutorial\snake game\snake game\snake game\snake game\obj\Debug\net8.0-windows\snake game.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\desktop-tutorial\snake game\snake game\snake game\snake game\obj\Debug\net8.0-windows\snake game.sourcelink.json
+C:\Users\USER\Documents\GitHub\desktop-tutorial\snake game\snake game\snake game\snake game\obj\Debug\net8.0-windows\snake game.dll
+C:\Users\USER\Documents\GitHub\desktop-tutorial\snake game\snake game\snake game\snake game\obj\Debug\net8.0-windows\refint\snake game.dll
+C:\Users\USER\Documents\GitHub\desktop-tutorial\snake game\snake game\snake game\snake game\obj\Debug\net8.0-windows\snake game.pdb
+C:\Users\USER\Documents\GitHub\desktop-tutorial\snake game\snake game\snake game\snake game\obj\Debug\net8.0-windows\snake game.genruntimeconfig.cache
+C:\Users\USER\Documents\GitHub\desktop-tutorial\snake game\snake game\snake game\snake game\obj\Debug\net8.0-windows\ref\snake game.dll
